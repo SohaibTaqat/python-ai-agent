@@ -69,7 +69,7 @@ def main():
         else:    
             print("Response: ", response.text)
             return
-    print("Maximum iterations reached")
+    print("Maximum iterations ")
     sys.exit(1)
 
 if __name__ == "__main__":
